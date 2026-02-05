@@ -1,7 +1,7 @@
 # 🍔 Foodie - Digital Food Delivery Solution
 
 **Project Overview & Concept Document**
-**Live Demo:** [https://foodie-2ol4.onrender.com/](https://foodie-2ol4.onrender.com/)
+**Live Demo:** [https://foodie-2ol4.onrender.com](https://foodie-2ol4.onrender.com)
 
 ---
 
@@ -38,19 +38,19 @@ The user reviews their cart summary and confirms the order. The system then proc
 ### 1. The Home Experience
 The landing page is designed to captivate users immediately. It showcases our "Popular Items," "Services," and "Customer Testimonials" in a clean, scrollable layout.
 
-![Home Page Overview](images/home-overview.jpg)
+![Home Page Overview](./home-overview.png)
 *Figure 1: Complete overview of the landing page showing the hero section, popular items, and footer.*
 
 ### 2. Extensive Digital Menu
 We have replaced the traditional PDF menu with an interactive digital catalog. Users can view hundreds of items at a glance, categorized for easy navigation (Burgers, Pizzas, Drinks, etc.).
 
-![Full Digital Menu](images/full-menu.jpg)
+![Full Digital Menu](./full-menu.png)
 *Figure 2: The comprehensive menu view allowing users to browse all available categories and items.*
 
 ### 3. Smart Order Confirmation
-The checkout process is simplified into a smart popup. Users can review their selected item (e.g., Melon Mirage Mocktail), confirm their address, choose delivery options (Pickup/Delivery), and see the total cost instantly.
+The checkout process is simplified into a smart pop-up. Users can review their selected item (e.g., Melon Mirage Mocktail), confirm their address, choose delivery options (Pickup/Delivery), and see the total cost instantly.
 
-![Order Confirmation Modal](images/order-confirm.jpg)
+![Order Confirmation Modal](./order-confirm.png)
 *Figure 3: A sleek order confirmation modal that allows users to verify details before payment.*
 ---
 
@@ -60,6 +60,18 @@ The checkout process is simplified into a smart popup. Users can review their se
 * **⚡ Instant Interactions:** Adding items to the cart happens instantly without reloading the page.
 * **🔒 Secure Data:** User passwords and data are handled with industry-standard security.
 * **🎨 Modern UI/UX:** A clean, appetizing design that encourages users to order more.
+
+---
+
+## 💻 Technical Documentation (For Developers/IT Team)
+
+*This section is intended for the technical team for future updates or server maintenance.*
+
+**Tech Stack Used:**
+* **Frontend:** React.js, Tailwind CSS
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **Hosting:** Render
 
 ---
 
