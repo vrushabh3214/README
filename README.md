@@ -80,4 +80,4 @@ The checkout process is simplified into a smart pop-up. Users can review their s
 **Foodie** is not just a website; it is a scalable solution ready to handle real-world food ordering scenarios. It streamlines the process for the business and simplifies the experience for the customer.
 
 ---
-*Developed by: [Your Name/Company Name]*
+*Developed by: [Vrushabh Hirpara / JDK Solution]*
